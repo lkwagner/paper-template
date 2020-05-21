@@ -1,0 +1,5 @@
+position,method,energy,error
+0.5,DMC,1.0,0.1
+0.5,DFT,1.1,0.
+0.7,DMC,0.7,0.1
+0.7,DFT,0.9,0.
